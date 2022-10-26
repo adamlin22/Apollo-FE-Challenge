@@ -1,0 +1,8 @@
+.traits {
+  display: grid;
+  gap: 8px;
+  grid-template-columns: 33.33% 33.33% auto;
+  padding-left: 32px;
+  padding-right: 32px;
+  margin-bottom: 32px;
+}
